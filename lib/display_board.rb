@@ -2,7 +2,7 @@
 def display_board
   cell = "   "
   space = "-----------"
-  row = [$cell, "|", $cell, "|", $cell]
+  row = [cell, "|", cell, "|", cell]
   puts row
   puts space
   puts row
